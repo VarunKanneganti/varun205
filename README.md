@@ -5,10 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Full Stack Web Devlopment
-- 🌱 I’m currently learning git and github
-- 👯 I’m looking to collaborate on web devlopment
-- 📫 How to reach me: varun.kanneganti2@gmail.com
+- 🔭 I’m currently working on Full Stack java
+- 📫 How to reach me: reachtovarun4@gmail.com
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
